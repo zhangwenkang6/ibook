@@ -1,0 +1,23 @@
+{
+  "name": "ibook",
+  "version": "1.0.0",
+  "description": "电子书 这是一 GitBook 自动化构建的Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangwenkang6/ibook.git"
+  },
+  "keywords": [],
+  "author": "zhangwenkang6",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhangwenkang6/ibook/issues"
+  },
+  "homepage": "https://github.com/zhangwenkang6/ibook#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
